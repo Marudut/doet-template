@@ -1,0 +1,30 @@
+{
+  "name": "doet-template",
+  "version": "1.0.0",
+  "description": "template simarmata",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "test hasil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marudut/doet-template.git"
+  },
+  "keywords": [
+    "template",
+    "simarmata"
+  ],
+  "author": "simarmata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marudut/doet-template/issues"
+  },
+  "homepage": "https://github.com/Marudut/doet-template#readme"
+}
